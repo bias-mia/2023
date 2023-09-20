@@ -26,7 +26,7 @@ To contact the organizers, please reach out to [Amith](/speakers/amith_kamath), 
 
 We would like to gratefully acknowledge our sponsors without whom this event would not be possible.
 
-<img src="/assets/images/mvub_logo.png" alt="MVUB" width="200"/> <img src="/assets/images/ccmt_logo.jpeg" alt="CCMT" width="200"/> <img src="/assets/images/mathworks-logo.png" alt="MathWorks" width="200"/> <img src="/assets/images/varian-logo.jpg" alt="MVUB" width="200"/> 
+<img src="/2023/assets/images/mvub_logo.png" alt="MVUB" width="200"/> <img src="/2023/assets/images/ccmt_logo.jpeg" alt="CCMT" width="200"/> <img src="/2023/assets/images/mathworks-logo.png" alt="MathWorks" width="200"/> <img src="/2023/assets/images/varian-logo.jpg" alt="MVUB" width="200"/> 
 
 We acknowledge the MICCAI Society for endorsing this event as well.
-<img src="/assets/images/MICCAI_logo.jpeg" alt="MICCAI" width="200"/>
+<img src="/2023/assets/images/MICCAI_logo.jpeg" alt="MICCAI" width="200"/>
