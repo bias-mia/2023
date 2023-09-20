@@ -20,7 +20,7 @@ Although the "AI model" boom in recent years has generated promising results in 
 
 ## Contact the Organizers
 
-To contact the organizers, please reach out to [Amith](/speakers/amith_kamath), [Yannick](/speakers/yannick_suter) or [Dr. Mauricio Reyes](/speakers/mauricio_reyes).
+To contact the organizers, please reach out to [Amith](/2023/speakers/amith_kamath), [Yannick](/2023/speakers/yannick_suter) or [Dr. Mauricio Reyes](/2023/speakers/mauricio_reyes).
 
 ## Sponsors
 
